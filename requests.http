@@ -1,0 +1,11 @@
+###
+GET http://localhost:8080/on
+
+###
+GET http://localhost:8080/on/list
+
+###
+GET http://localhost:8080/off
+
+###
+GET http://localhost:8080/off/list
